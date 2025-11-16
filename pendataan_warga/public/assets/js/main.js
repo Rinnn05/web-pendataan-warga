@@ -1,0 +1,1 @@
+console.log('Pendataan Warga - ready');
